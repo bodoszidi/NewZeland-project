@@ -1,10 +1,29 @@
 h1{
-    font-family: "Poppins", sans-serif;
+    font-family: "Playfair", serif;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 20px;
 }
 
 h2{
-    font-family: "font-family: "Cinzel Decorative", cursive;";
+    font-family: "Story Script", sans-serif;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 15px;    
 }
 p{
-    font-family: "Playfair", serif;
+     font-family: "Poppins", sans-serif;
+        font-size: 18px;    
+        line-height: 1.6;
+        margin: 20px;      
+}
+body{
+    background-color: #ddeded;
+    margin: 40px;
+}
+footer{
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 20px;
 }
