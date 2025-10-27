@@ -1,6 +1,7 @@
 body {
     font-family: "Poppins", sans-serif;
     background: #2d332f;
+    scroll-behavior: smooth;
 }
 .container {
     max-width: 1600px;
